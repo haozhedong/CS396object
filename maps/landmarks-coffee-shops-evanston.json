@@ -8,7 +8,7 @@
           "addr:state": "IL",
           "addr:street": "Sherman Avenue",
           "amenity": "cafe",
-          "name": "Starbucks",        },
+          "name": "Starbucks"},
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -18,7 +18,7 @@
         },
         "id": "node/1420496962"
       },
-    {
+      {
         "type": "Feature",
         "properties": {
           "@id": "node/1420572204",
